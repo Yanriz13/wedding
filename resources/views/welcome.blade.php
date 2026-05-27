@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <title>Yanuar & Elsa Wedding</title>
 
@@ -114,13 +114,15 @@ body.locked{
 /* MAIN CONTENT */
 #mainContent{
     opacity:0;
-    transform:translateY(30px);
-    transition:1.2s;
+    transform:translateY(30px) scale(1);
+    transition:opacity 1.2s, transform 1.2s;
+    -webkit-transform:translateY(30px) scale(1);
 }
 
 #mainContent.show{
     opacity:1;
-    transform:translateY(0);
+    transform:translateY(0) scale(1);
+    -webkit-transform:translateY(0) scale(1);
 }
 
 /* GLOW EFFECT */
