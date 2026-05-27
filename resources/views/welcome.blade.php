@@ -4574,14 +4574,14 @@ var context = new AudioContext();
             </div>
             <div class="couple-description man data_pria_cli">
                                 <div class="sosmed-wrap" data-aos="fade-right">
-                    <a href="https://instagram.com/Jessnolimit" class="sosmed " target="_blank" style="display: flex; align-items: center; justify-content: center;">
+                    <a href="https://instagram.com/ininuangya" class="sosmed " target="_blank" style="display: flex; align-items: center; justify-content: center;">
                         <small style="margin-right: 2px"><svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512">
                                 <path fill="#ffffff"
                                     d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
-                            </svg></small>Jessnolimit
+                            </svg></small>YanuarRizki
                     </a>
                 </div>
-                                <h1 class="nama-pria text-elegan-nature" id="nama-pria" data-aos="zoom-out" style="font-size: 25px;">Tobias Yanuar</h1>
+                                <h1 class="nama-pria text-elegan-nature" id="nama-pria" data-aos="zoom-out" style="font-size: 25px;"> Yanuar</h1>
                 <div class="couple-parent" data-aos="fade-up">
                     
                     <p class="fun-p-183"><span style="font-size: 12px;">Putra dari Pasangan</span></p><span style="font-size: 12px;">
@@ -4698,14 +4698,14 @@ var context = new AudioContext();
             </div>
             <div class="couple-description woman data_wanita_cli">
                                 <div class="sosmed-wrap" data-aos="fade-left">
-                    <a href="https://instagram.com/Elsachol" class="sosmed " target="_blank" style="display: flex; align-items: center; justify-content: center;">
+                    <a href="https://instagram.com/ininuangya" class="sosmed " target="_blank" style="display: flex; align-items: center; justify-content: center;">
                         <small style="margin-right: 2px;"><svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" viewBox="0 0 448 512">
                                 <path fill="#ffffff"
                                     d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
                             </svg></small>
-                        Elsachol</a>
+                        ElsaNovitasari</a>
                 </div>
-                                <h1 class="text-elegan-nature" data-aos="zoom-out" style="font-size: 25px;">Elsa Chol
+                                <h1 class="text-elegan-nature" data-aos="zoom-out" style="font-size: 25px;">Elsa Novitasari
                 </h1>
                 <div class="couple-parent" data-aos="fade-up">
                     
@@ -4786,9 +4786,9 @@ var context = new AudioContext();
                                         <div style="padding: 0; margin:0;display:flex;overflow:hidden;gap:20px;margin: 20px 0;">
                         <div style="position: relative;width: 50%;display:flex; flex-wrap: wrap;"
                             data-aos="fade-right">
-                                                        <h3 data-aos="fade-up"class="judul-story text-elegan-nature" style="text-align: end;" id="judul-story-0">Pertemuan Di Kereta Api</h3>
+                                                        <h3 data-aos="fade-up"class="judul-story text-elegan-nature" style="text-align: end;" id="judul-story-0">Pertemuan Di Sekolah</h3>
                             <p data-aos="fade-up"class="deskripsi-story text-elegan-nature" style="text-align: end;width:1000%;"></p>
-                            <p data-aos="fade-up"class="deskripsi-story text-elegan-nature" style="text-align: end;">Pertemuan tak terduga di sebuah kereta api membawa Aria dan Ryan dalam sebuah cerita cinta perjalanan yang tak terlupakan. Aria adalah seorang gadis yang bekerja sebagai penulis buku anak-anak, sedangkan Ryan adalah seorang pengusaha muda yang sedang dalam perjalanan bisnis ke kota lain.</p>
+                            <p data-aos="fade-up"class="deskripsi-story text-elegan-nature" style="text-align: end;">Pertemuan tak terduga di sekolah adahal hal pertama kali yang membuat kita berkenalan</p>
                                                     </div>
                         <div class=""
                             style="position: relative;width: 50%;display:flex; flex-wrap: wrap;"
@@ -4820,7 +4820,7 @@ var context = new AudioContext();
                             data-aos="fade-left">
                                                         <h3 data-aos="fade-up"class="judul-story text-elegan-nature" style="text-align: start;" id="judul-story-1">Lanjut Ke Pelaminan</h3>
                             <p data-aos="fade-up"class="deskripsi-story text-elegan-nature" style="text-align: start; width:100%">05 Januari 2024</p>
-                            <p data-aos="fade-up"class="deskripsi-story text-elegan-nature" style="text-align: start;">Setelah itu, Ryan dan Aria terus berhubungan dan memulai sebuah hubungan yang manis. Mereka mengunjungi tempat-tempat yang indah dan menikmati setiap momen bersama. Perjalanan pertemuan di kereta api telah membawa mereka pada sebuah cerita cinta perjalanan yang tak terlupakan.</p>
+                            <p data-aos="fade-up"class="deskripsi-story text-elegan-nature" style="text-align: start;">Setelah itu, yanuar dan elsa terus berhubungan dan memulai sebuah hubungan yang manis. Mereka mengunjungi tempat-tempat yang indah dan menikmati setiap momen bersama. Perjalanan pertemuan di kereta api telah membawa mereka pada sebuah cerita cinta perjalanan yang tak terlupakan.</p>
                                                     </div>
                     </div>
                                     </div>
@@ -4843,8 +4843,8 @@ var context = new AudioContext();
 
         
                     <div class="frame-youtube" data-aos="fade-up">
-                <iframe id="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/7ztcdznpX9w?enablejsapi=1&origin=https://indoinvite.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/kG2WNURpedA?si=6BPNdNpCBdIUGJLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
         
 
 
@@ -5685,7 +5685,7 @@ Hiburan (musik, tarian tradisional, atau penampilan lainnya)
 
                                 <div style="height: 20px"></div>
 <div id="c-pengumuman-id" class="pengumuman_cli pengumuman_gr" data-aos="zoom-out">
-        <p>Acara ini di selenggarakan dengan mematuhi protokol pencegahan penyebaran COVID-19 dan bagi tamu undangan di harapkan dapat mengikutinya.</p>
+        <p>Acara ini di selenggarakan dengan hikmat.</p>
 
 </div>
 
@@ -5792,7 +5792,7 @@ Hiburan (musik, tarian tradisional, atau penampilan lainnya)
             <div class="rek_kiri" style="width: 100% !important">
                 <img style="margin-left: 0px !important;" class="pin_rek" src="https://indoinvite.com/nikah/bank/pin.png" alt="">
                 <p class="rek_norek">12345678</p>
-                <p class="rek_an font-p">Elsa Kohl</p>
+                <p class="rek_an font-p">elsa</p>
                 <p class="rek_ket font-p"></p>
             </div>
             <div class="rek_kanan" style="width: 100% !important">
@@ -5809,7 +5809,7 @@ Hiburan (musik, tarian tradisional, atau penampilan lainnya)
             <div class="rek_kiri" style="width: 100% !important">
                 <img style="margin-left: 0px !important;" class="pin_rek" src="https://indoinvite.com/nikah/bank/pin.png" alt="">
                 <p class="rek_norek">0982309823</p>
-                <p class="rek_an font-p">Tobias Yanuar</p>
+                <p class="rek_an font-p">Yanuar Rizki</p>
                 <p class="rek_ket font-p"></p>
             </div>
             <div class="rek_kanan" style="width: 100% !important">
@@ -5819,37 +5819,11 @@ Hiburan (musik, tarian tradisional, atau penampilan lainnya)
 
     </div>
         <div>
-        <div class="rek_each_soft_white" data-aos="fade-up">
-            <div class="rek_gambar">
-                <img src="https://indoinvite.com/nikah/bank/mestika.png" alt="Nomor rekening">
-            </div>
-            <div class="rek_kiri" style="width: 100% !important">
-                <img style="margin-left: 0px !important;" class="pin_rek" src="https://indoinvite.com/nikah/bank/pin.png" alt="">
-                <p class="rek_norek">99787238</p>
-                <p class="rek_an font-p">Papanya Elsa</p>
-                <p class="rek_ket font-p"></p>
-            </div>
-            <div class="rek_kanan" style="width: 100% !important">
-                <button class="btn btn-primary rek_copy font-p" data-rek="99787238"><i class="icon-copy"></i> Copy</button>
-            </div>
-        </div>
+
 
     </div>
         <div>
-        <div class="rek_each_soft_white" data-aos="fade-up">
-            <div class="rek_gambar">
-                <img src="https://indoinvite.com/nikah/bank/bri.svg" alt="Nomor rekening">
-            </div>
-            <div class="rek_kiri" style="width: 100% !important">
-                <img style="margin-left: 0px !important;" class="pin_rek" src="https://indoinvite.com/nikah/bank/pin.png" alt="">
-                <p class="rek_norek">123456789123</p>
-                <p class="rek_an font-p">Van</p>
-                <p class="rek_ket font-p"></p>
-            </div>
-            <div class="rek_kanan" style="width: 100% !important">
-                <button class="btn btn-primary rek_copy font-p" data-rek="123456789123"><i class="icon-copy"></i> Copy</button>
-            </div>
-        </div>
+
 
     </div>
     </div>
@@ -5884,29 +5858,17 @@ Hiburan (musik, tarian tradisional, atau penampilan lainnya)
     </div>
     <div class="form-group col-md-12 font-p " data-aos="fade-up">
                 <div class="form-check" data-aos="fade-up">
-            <input class="form-check-input" type="radio" name="norek" id="norek1" value=" Elsa Kohl | 12345678">
+            <input class="form-check-input" type="radio" name="norek" id="norek1" value=" elsa | 12345678">
             <label class="form-check-label" for="norek1" style="font-size: 12px !important">
-              Elsa Kohl | 12345678
+              Elsa Novitasari | 12345678
             </label>
           </div>
             <div class="form-check" data-aos="fade-up">
-            <input class="form-check-input" type="radio" name="norek" id="norek2" value=" Tobias Yanuar | 0982309823">
+            <input class="form-check-input" type="radio" name="norek" id="norek2" value="  Yanuar | 0982309823">
             <label class="form-check-label" for="norek2" style="font-size: 12px !important">
-              Tobias Yanuar | 0982309823
+              YanuarRizki | 0982309823
             </label>
-          </div>
-            <div class="form-check" data-aos="fade-up">
-            <input class="form-check-input" type="radio" name="norek" id="norek3" value=" Papanya Elsa | 99787238">
-            <label class="form-check-label" for="norek3" style="font-size: 12px !important">
-              Papanya Elsa | 99787238
-            </label>
-          </div>
-            <div class="form-check" data-aos="fade-up">
-            <input class="form-check-input" type="radio" name="norek" id="norek4" value=" Van | 123456789123">
-            <label class="form-check-label" for="norek4" style="font-size: 12px !important">
-              Van | 123456789123
-            </label>
-          </div>
+   
             </div>
     <div class="col-md-12" style="text-align: center;" data-aos="fade-up">
     <button data-aos="fade-up" id="btn-konfirmasi" type="submit" class="btn btn-primary" style="text-align: center">Konfirmasi via WhatsApp</button>
@@ -6452,7 +6414,7 @@ Hiburan (musik, tarian tradisional, atau penampilan lainnya)
                         <img style="
                         width: 20px; margin: 0 auto;
                             padding-top: 4px;
-                    " src="/nikah/down.png" alt="">
+                    " src="/nikah/down.svg" alt="">
                     </div>
                 </div>
             </div>
@@ -7940,7 +7902,7 @@ $('#auto_scroll').on('click', function(e) {
             var allUrl = window.location.href;
             var domain = 'https://indoinvite.com';
             var urlRight = allUrl.replace(domain, '');
-            var url = 'https://indoinvite.com/qrcode' + urlRight;
+            var url = '' + urlRight;
             // console.log('tes'+window.location.href);
             window.location.href = url;
         
